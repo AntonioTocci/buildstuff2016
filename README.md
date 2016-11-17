@@ -17,6 +17,6 @@
 |17th - 9:00 | Michael Brunton - UK Government | Agile Application Security | There are a lot of attacks (es Dark Hotel). He tried to apply the Agile methodologies to security principles. Give more feedback faster! Collaborate with security team. Make the security system handles failures. |
 |17th - 10:30 | Tom Croucher | How to be reliable even when things aren't working | ... |
 |17th - 11:45 | Rachael Reese | History of a Functional language: from Euclid to Type Providers | Talk alla Piero Angela che parte da auclide e pian piano va anvati con le persone che hanno influenzato maggiormente la programmazione ad oggetti e tutto quello da cui deriva: lamda caculus, teoremi assurdi di matematica, ecc per arrivare ad oggi a F#. Niente di più che una carrella di eventi, una specia di SuperQuark dei linguaggi funzionali |
-|17th - 13:40 | Roy Veshovda | From Zero to IoT using Elixir and Nerves | ... |
+|17th - 13:40 | Roy Veshovda | From Zero to IoT using Elixir and Nerves | Breve introduzione su IoT e di come si può implementare tramite HW come arduino, RaspberryPI, ecc... Spiega come funziona Nerves e lo utilizza per far blinkare un led (l'hello world dell'IoT :) ) una volta creta l'immagine "nerves" per Raspberry. Carino...niente di più |
 |17th - 14:55 | Chris Condron | Teaching your team CQRS/ES 2.0 | ... |
 |17th - 16:10 | Mark Seemann | Functional Architecture: the pits of Success | ... |
