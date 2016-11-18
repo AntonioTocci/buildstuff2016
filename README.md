@@ -24,4 +24,4 @@
 |18th - 11:20 | Dylan Beattie | Webmasters, Full Stack Developers and Other Legends | Storielle sul web... fuffa |
 |18th - 13:15 | Grzegorz Piwowarek | Javaslang - Functional Java Done Right | Carrellata sulle caratteristiche del framework Javaslang e di come completa le features di Java8 soprattutto dal punto di vista di design. Interessante e didattico, stop. |
 |18th - 14:30 | Michael Feathers | Edge - Free Programing | Talk incentrato su concetto di "Edges" e "Domain extension" (Tunneling) per gestire i casi di errori conosciuti con API che estendono i metodi che definiscono l'attuale comportamento di un oggetto. |
-|18th - 15:45 | Kevlin Henney | Functional C++ | ... |
+|18th - 15:45 | Kevlin Henney | Functional C++ | Un viaggio (con codice) dal C++ a oggetti fino ad un uso funzionale. Ha toccato problemi di concorrenza, message passing (channel), persistence data structures (molto interessante). Purtroppo non conoscendo C++ è risultato un po' tanto impegnativo, ma il tipo è davvero bravo ed ha saputo trattare temi e codice complesso in maniera molto friendly. |
