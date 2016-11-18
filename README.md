@@ -21,7 +21,7 @@
 |17th - 14:55 | Chris Condron | Teaching your team CQRS/ES 2.0 | ... |
 |17th - 16:10 | Mark Seemann | Functional Architecture: the pits of Success | ... |
 |18th - 10:05 | Vagif Abilov | reF#ACTORing using F# and actor model | Talk su F# e Akka.NET. Ha presentato il framework, l'actor model e come questo può risolvere i "soliti" tipi di concorrenza. Si è soffermato sul principio di "Tell don't Ask" e di come questi due verbi siano presenti in Akka e come/perchè evitare di utilizzare Ask :) . Ha accennato a "Persistent Actors" e ha mostrato un'implementazione del patters "Actor response aggregator" che sono risultate interessanti |
-|18th - 11:20 | Dylan Beattie | Webmasters, Full Stack Developers and Other Legends | ... |
-|18th - 13:15 | Grzegorz Piwowarek | Javaslang - Functional Java Done Right | ... |
+|18th - 11:20 | Dylan Beattie | Webmasters, Full Stack Developers and Other Legends | Storielle sul web... fuffa |
+|18th - 13:15 | Grzegorz Piwowarek | Javaslang - Functional Java Done Right | Carrellata sulle caratteristiche del framework Javaslang e di come completa le features di Java8 soprattutto dal punto di vista di design. Interessante e didattico, stop. |
 |18th - 14:30 | Michael Feathers | Edge - Free Programing | ... |
 |18th - 15:45 | Kevlin Henney | Functional C++ | ... |
