@@ -32,3 +32,4 @@
 | 18th - 11:20 | Dylan Beattie | Webmasters, Full Stack Developers and Other Legends | Storielle sul web... fuffa |
 | 18th - 13:15 | Grzegorz Piwowarek | Javaslang - Functional Java Done Right | Carrellata sulle caratteristiche del framework Javaslang e di come completa le features di Java8 soprattutto dal punto di vista di design. Interessante e didattico, stop. |
 | 18th - 15:45 | Kevlin Henney | Functional C++ | Un viaggio (con codice) dal C++ a oggetti fino ad un uso funzionale. Ha toccato problemi di concorrenza, message passing (channel), persistence data structures (molto interessante). Purtroppo non conoscendo C++ è risultato un po' tanto impegnativo, ma il tipo è davvero bravo ed ha saputo trattare temi e codice complesso in maniera molto friendly. |
+| 19th | Kevlin Henney | Paradigms Lost, Paradigms Regained | ... [slides](../Kevlin Henney - Paradigms Lost Paradigms Regained/ParadigmsLostParadigmsRegained.pdf) |
